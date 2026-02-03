@@ -7,7 +7,7 @@ Bu repo, 15 gün boyunca her gün bir mini otomasyon projesi geliştirerek GitHu
 - [x] **Gün 01:** Masaüstü Düzenleyici - Dosyaları uzantılarına göre klasörler.
 - [x] **Gün 02:** Toplu İsim Değiştirici - Dosyaları belirli bir kurala göre yeniden adlandırır.
 - [x] **Gün 03:** PDF Birleştirici - Birden fazla PDF'i tek dosyada toplar.
-- [ ] **Gün 04:** Görsel Boyutlandırıcı - Resimlerin boyutlarını toplu halde küçültür.
+- [x] **Gün 04:** Görsel Boyutlandırıcı - Resimlerin boyutlarını toplu halde küçültür.
 - [ ] **Gün 05:** Sistem Bilgi Raporlayıcı - CPU ve RAM kullanımını gösterir.
 
 ---
