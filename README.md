@@ -12,7 +12,7 @@ Bu repo, 15 gün boyunca her gün farklı bir probleme Python ile otomasyon çö
 | 04 | **Görsel Boyutlandırıcı** | Resimlerin kalitesini bozmadan boyutlarını küçülterek depolama alanı kazandırır. | ✅ |
 | 05 | **Sistem Analiz Paneli** | CPU, RAM, Disk ve Pil durumunu terminalde şık bir tabloyla raporlar. | ✅ |
 | 06 | **Finans Takipçisi** | Canlı API ile Dolar, Euro ve Altın fiyatlarını anlık olarak terminale getirir. | ✅ |
-| 07 | **Hava Durumu Raporlayıcı** | Şehrinizin hava durumunu ve 3 günlük tahminini internetten çeker. | ⏳ |
+| 07 | **URL Kısaltıcı** | Uzun ve karmaşık linkleri anında kısa, paylaşılabilir linklere dönüştürür. | ✅ |
 | 08 | **Otomatik E-Posta Gönderici** | Hazırlanan bir taslağı listedeki kişilere otomatik olarak mail atar. | 📅 |
 | 09 | **YouTube Video İndirici** | Belirtilen URL üzerinden videoları veya sadece ses dosyalarını indirir. | 📅 |
 | 10 | **Web Scraper (Veri Kazıyıcı)** | Bir web sitesindeki başlıkları veya fiyatları çekip Excel'e kaydeder. | 📅 |
