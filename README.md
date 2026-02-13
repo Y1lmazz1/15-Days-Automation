@@ -16,7 +16,7 @@ Bu repo, 15 gün boyunca her gün farklı bir probleme Python ile otomasyon çö
 | 08 | **Otomatik E-Posta Gönderici** | Hazırlanan bir taslağı listedeki kişilere otomatik olarak mail atar. | ✅ |
 | 09 | **YouTube Video İndirici** | Belirtilen URL üzerinden videoları veya sadece ses dosyalarını indirir. | ✅ |
 | 10 | **Web Scraper (Veri Kazıyıcı)** | Bir web sitesindeki başlıkları veya fiyatları çekip Excel'e kaydeder. | 📅 |
-| 11 | **Şifre Yöneticisi** | Güçlü şifreler üretir ve bunları şifreli bir dosyada saklar. | 📅 |
+| 11 | **Şifre Yöneticisi** | Fernet şifreleme kullanarak verileri güvenli dosyada saklar. | ✅ |
 | 12 | **QR Kod Oluşturucu** | Girilen metin veya linkleri anında taranabilir QR kodlara dönüştürür. | 📅 |
 | 13 | **Göz Sağlığı Hatırlatıcı** | Belirli aralıklarla ekrandan uzaklaşmanız için bildirim gönderir. | 📅 |
 | 14 | **Döviz Çevirici (GUI)** | Terminalden çıkıp pencereli (arayüzlü) bir hesap makinesi yapar. | 📅 |
